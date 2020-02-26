@@ -5,527 +5,527 @@ Columns = 17
 Fields = 1
 
 [Well 0]
-Row 0
-Column 0
+Row = 0
+Column = 0
 
 [Well 1]
-Row 0
-Column 1
+Row = 0
+Column = 1
 
 [Well 2]
-Row 0
-Column 2
+Row = 0
+Column = 2
 
 [Well 3]
-Row 0
-Column 3
+Row = 0
+Column = 3
 
 [Well 4]
-Row 0
-Column 4
+Row = 0
+Column = 4
 
 [Well 5]
-Row 0
-Column 5
+Row = 0
+Column = 5
 
 [Well 6]
-Row 0
-Column 6
+Row = 0
+Column = 6
 
 [Well 7]
-Row 0
-Column 7
+Row = 0
+Column = 7
 
 [Well 8]
-Row 0
-Column 8
+Row = 0
+Column = 8
 
 [Well 9]
-Row 0
-Column 9
+Row = 0
+Column = 9
 
 [Well 10]
-Row 0
-Column 10
+Row = 0
+Column = 10
 
 [Well 11]
-Row 0
-Column 11
+Row = 0
+Column = 11
 
 [Well 12]
-Row 0
-Column 12
+Row = 0
+Column = 12
 
 [Well 13]
-Row 0
-Column 13
+Row = 0
+Column = 13
 
 [Well 14]
-Row 0
-Column 14
+Row = 0
+Column = 14
 
 [Well 15]
-Row 0
-Column 15
+Row = 0
+Column = 15
 
 [Well 16]
-Row 0
-Column 16
+Row = 0
+Column = 16
 
 [Well 17]
-Row 1
-Column 0
+Row = 1
+Column = 0
 
 [Well 18]
-Row 1
-Column 1
+Row = 1
+Column = 1
 
 [Well 19]
-Row 1
-Column 2
+Row = 1
+Column = 2
 
 [Well 20]
-Row 1
-Column 3
+Row = 1
+Column = 3
 
 [Well 21]
-Row 1
-Column 4
+Row = 1
+Column = 4
 
 [Well 22]
-Row 1
-Column 5
+Row = 1
+Column = 5
 
 [Well 23]
-Row 1
-Column 6
+Row = 1
+Column = 6
 
 [Well 24]
-Row 1
-Column 7
+Row = 1
+Column = 7
 
 [Well 25]
-Row 1
-Column 8
+Row = 1
+Column = 8
 
 [Well 26]
-Row 1
-Column 9
+Row = 1
+Column = 9
 
 [Well 27]
-Row 1
-Column 10
+Row = 1
+Column = 10
 
 [Well 28]
-Row 1
-Column 11
+Row = 1
+Column = 11
 
 [Well 29]
-Row 1
-Column 12
+Row = 1
+Column = 12
 
 [Well 30]
-Row 1
-Column 13
+Row = 1
+Column = 13
 
 [Well 31]
-Row 1
-Column 14
+Row = 1
+Column = 14
 
 [Well 32]
-Row 1
-Column 15
+Row = 1
+Column = 15
 
 [Well 33]
-Row 1
-Column 16
+Row = 1
+Column = 16
 
 [Well 34]
-Row 2
-Column 0
+Row = 2
+Column = 0
 
 [Well 35]
-Row 2
-Column 1
+Row = 2
+Column = 1
 
 [Well 36]
-Row 2
-Column 2
+Row = 2
+Column = 2
 
 [Well 37]
-Row 2
-Column 3
+Row = 2
+Column = 3
 
 [Well 38]
-Row 2
-Column 4
+Row = 2
+Column = 4
 
 [Well 39]
-Row 2
-Column 5
+Row = 2
+Column = 5
 
 [Well 40]
-Row 2
-Column 6
+Row = 2
+Column = 6
 
 [Well 41]
-Row 2
-Column 7
+Row = 2
+Column = 7
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40501.nd2.tif_merged.tif
 
 [Well 42]
-Row 2
-Column 8
+Row = 2
+Column = 8
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40550.nd2.tif_merged.tif
 
 [Well 43]
-Row 2
-Column 9
+Row = 2
+Column = 9
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40549.nd2.tif_merged.tif
 
 [Well 44]
-Row 2
-Column 10
+Row = 2
+Column = 10
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40548.nd2.tif_merged.tif
 
 [Well 45]
-Row 2
-Column 11
+Row = 2
+Column = 11
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40547.nd2.tif_merged.tif
 
 [Well 46]
-Row 2
-Column 12
+Row = 2
+Column = 12
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40546.nd2.tif_merged.tif
 
 [Well 47]
-Row 2
-Column 13
+Row = 2
+Column = 13
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40545.nd2.tif_merged.tif
 
 [Well 48]
-Row 2
-Column 14
+Row = 2
+Column = 14
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40544.nd2.tif_merged.tif
 
 [Well 49]
-Row 2
-Column 15
+Row = 2
+Column = 15
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40543.nd2.tif_merged.tif
 
 [Well 50]
-Row 2
-Column 16
+Row = 2
+Column = 16
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40542.nd2.tif_merged.tif
 
 [Well 51]
-Row 3
-Column 0
+Row = 3
+Column = 0
 
 [Well 52]
-Row 3
-Column 1
+Row = 3
+Column = 1
 
 [Well 53]
-Row 3
-Column 2
+Row = 3
+Column = 2
 
 [Well 54]
-Row 3
-Column 3
+Row = 3
+Column = 3
 
 [Well 55]
-Row 3
-Column 4
+Row = 3
+Column = 4
 
 [Well 56]
-Row 3
-Column 5
+Row = 3
+Column = 5
 
 [Well 57]
-Row 3
-Column 6
+Row = 3
+Column = 6
 
 [Well 58]
-Row 3
-Column 7
+Row = 3
+Column = 7
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40502.nd2.tif_merged.tif
 
 [Well 59]
-Row 3
-Column 8
+Row = 3
+Column = 8
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40509.nd2.tif_merged.tif
 
 [Well 60]
-Row 3
-Column 9
+Row = 3
+Column = 9
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40510.nd2.tif_merged.tif
 
 [Well 61]
-Row 3
-Column 10
+Row = 3
+Column = 10
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40517.nd2.tif_merged.tif
 
 [Well 62]
-Row 3
-Column 11
+Row = 3
+Column = 11
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40518.nd2.tif_merged.tif
 
 [Well 63]
-Row 3
-Column 12
+Row = 3
+Column = 12
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40525.nd2.tif_merged.tif
 
 [Well 64]
-Row 3
-Column 13
+Row = 3
+Column = 13
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40526.nd2.tif_merged.tif
 
 [Well 65]
-Row 3
-Column 14
+Row = 3
+Column = 14
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40533.nd2.tif_merged.tif
 
 [Well 66]
-Row 3
-Column 15
+Row = 3
+Column = 15
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40534.nd2.tif_merged.tif
 
 [Well 67]
-Row 3
-Column 16
+Row = 3
+Column = 16
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40541.nd2.tif_merged.tif
 
 [Well 68]
-Row 4
-Column 0
+Row = 4
+Column = 0
 
 [Well 69]
-Row 4
-Column 1
+Row = 4
+Column = 1
 
 [Well 70]
-Row 4
-Column 2
+Row = 4
+Column = 2
 
 [Well 71]
-Row 4
-Column 3
+Row = 4
+Column = 3
 
 [Well 72]
-Row 4
-Column 4
+Row = 4
+Column = 4
 
 [Well 73]
-Row 4
-Column 5
+Row = 4
+Column = 5
 
 [Well 74]
-Row 4
-Column 6
+Row = 4
+Column = 6
 
 [Well 75]
-Row 4
-Column 7
+Row = 4
+Column = 7
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40503.nd2.tif_merged.tif
 
 [Well 76]
-Row 4
-Column 8
+Row = 4
+Column = 8
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40508.nd2.tif_merged.tif
 
 [Well 77]
-Row 4
-Column 9
+Row = 4
+Column = 9
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40511.nd2.tif_merged.tif
 
 [Well 78]
-Row 4
-Column 10
+Row = 4
+Column = 10
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40516.nd2.tif_merged.tif
 
 [Well 79]
-Row 4
-Column 11
+Row = 4
+Column = 11
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40519.nd2.tif_merged.tif
 
 [Well 80]
-Row 4
-Column 12
+Row = 4
+Column = 12
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40524.nd2.tif_merged.tif
 
 [Well 81]
-Row 4
-Column 13
+Row = 4
+Column = 13
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40527.nd2.tif_merged.tif
 
 [Well 82]
-Row 4
-Column 14
+Row = 4
+Column = 14
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40532.nd2.tif_merged.tif
 
 [Well 83]
-Row 4
-Column 15
+Row = 4
+Column = 15
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40535.nd2.tif_merged.tif
 
 [Well 84]
-Row 4
-Column 16
+Row = 4
+Column = 16
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40540.nd2.tif_merged.tif
 
 [Well 85]
-Row 5
-Column 0
+Row = 5
+Column = 0
 
 [Well 86]
-Row 5
-Column 1
+Row = 5
+Column = 1
 
 [Well 87]
-Row 5
-Column 2
+Row = 5
+Column = 2
 
 [Well 88]
-Row 5
-Column 3
+Row = 5
+Column = 3
 
 [Well 89]
-Row 5
-Column 4
+Row = 5
+Column = 4
 
 [Well 90]
-Row 5
-Column 5
+Row = 5
+Column = 5
 
 [Well 91]
-Row 5
-Column 6
+Row = 5
+Column = 6
 
 [Well 92]
-Row 5
-Column 7
+Row = 5
+Column = 7
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40504.nd2.tif_merged.tif
 
 [Well 93]
-Row 5
-Column 8
+Row = 5
+Column = 8
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40507.nd2.tif_merged.tif
 
 [Well 94]
-Row 5
-Column 9
+Row = 5
+Column = 9
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40512.nd2.tif_merged.tif
 
 [Well 95]
-Row 5
-Column 10
+Row = 5
+Column = 10
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40515.nd2.tif_merged.tif
 
 [Well 96]
-Row 5
-Column 11
+Row = 5
+Column = 11
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40520.nd2.tif_merged.tif
 
 [Well 97]
-Row 5
-Column 12
+Row = 5
+Column = 12
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40523.nd2.tif_merged.tif
 
 [Well 98]
-Row 5
-Column 13
+Row = 5
+Column = 13
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40528.nd2.tif_merged.tif
 
 [Well 99]
-Row 5
-Column 14
+Row = 5
+Column = 14
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40531.nd2.tif_merged.tif
 
 [Well 100]
-Row 5
-Column 15
+Row = 5
+Column = 15
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40536.nd2.tif_merged.tif
 
 [Well 101]
-Row 5
-Column 16
+Row = 5
+Column = 16
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40539.nd2.tif_merged.tif
 
 [Well 102]
-Row 6
-Column 0
+Row = 6
+Column = 0
 
 [Well 103]
-Row 6
-Column 1
+Row = 6
+Column = 1
 
 [Well 104]
-Row 6
-Column 2
+Row = 6
+Column = 2
 
 [Well 105]
-Row 6
-Column 3
+Row = 6
+Column = 3
 
 [Well 106]
-Row 6
-Column 4
+Row = 6
+Column = 4
 
 [Well 107]
-Row 6
-Column 5
+Row = 6
+Column = 5
 
 [Well 108]
-Row 6
-Column 6
+Row = 6
+Column = 6
 
 [Well 109]
-Row 6
-Column 7
+Row = 6
+Column = 7
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40505.nd2.tif_merged.tif
 
 [Well 110]
-Row 6
-Column 8
+Row = 6
+Column = 8
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40506.nd2.tif_merged.tif
 
 [Well 111]
-Row 6
-Column 9
+Row = 6
+Column = 9
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40513.nd2.tif_merged.tif
 
 [Well 112]
-Row 6
-Column 10
+Row = 6
+Column = 10
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40514.nd2.tif_merged.tif
 
 [Well 113]
-Row 6
-Column 11
+Row = 6
+Column = 11
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40521.nd2.tif_merged.tif
 
 [Well 114]
-Row 6
-Column 12
+Row = 6
+Column = 12
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40522.nd2.tif_merged.tif
 
 [Well 115]
-Row 6
-Column 13
+Row = 6
+Column = 13
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40529.nd2.tif_merged.tif
 
 [Well 116]
-Row 6
-Column 14
+Row = 6
+Column = 14
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40530.nd2.tif_merged.tif
 
 [Well 117]
-Row 6
-Column 15
+Row = 6
+Column = 15
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40537.nd2.tif_merged.tif
 
 [Well 118]
-Row 6
-Column 16
+Row = 6
+Column = 16
 Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 1.3/plate_1-3_40538.nd2.tif_merged.tif

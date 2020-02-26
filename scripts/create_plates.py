@@ -21,8 +21,8 @@ def write_plate(name, data):
     row = int(i / 17)
     col = i % 17
     writer.write("\n[Well {}]\n".format(i))
-    writer.write("Row {}\n".format(row))
-    writer.write("Column {}\n".format(col))
+    writer.write("Row = {}\n".format(row))
+    writer.write("Column = {}\n".format(col))
     if path:
       writer.write("Field_0 = {}\n".format(path))
   writer.close()
