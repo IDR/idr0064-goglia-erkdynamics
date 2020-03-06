@@ -181,12 +181,12 @@ Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 2.1/pl
 [Well 43]
 Row = 2
 Column = 9
-Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 2.1/plate_2-1_40549.nd2.tif_merged.tif
+Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20200306-wetransfer/plate_2-1_40549.nd2.tif_merged.tif
 
 [Well 44]
 Row = 2
 Column = 10
-Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20190630-ftp/Plate 2.1/plate_2-1_40548.nd2.tif_merged.tif
+Field_0 = /uod/idr/filesets/idr0064-goglia-erkdynamics/20200306-wetransfer/plate_2-1_40548.nd2.tif_merged.tif
 
 [Well 45]
 Row = 2
