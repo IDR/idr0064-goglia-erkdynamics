@@ -1,0 +1,69 @@
+---
+name: idr0064-goglia-erkdynamics/screenA
+version: 1
+
+defaults:
+    include: false
+    type: string
+    split:
+    includeclient: true
+    visible: true
+    omitempty: true
+
+columns:
+
+  - name: Channels
+    include: true
+
+  - name: Control Type
+    include: true
+
+
+######################################################################
+# mapr groups
+######################################################################
+
+  - group:
+      namespace: openmicroscopy.org/mapr/organism
+      columns:
+      - name: Characteristics [Organism]
+        clientname: Organism
+        include: true
+
+  - group:
+      namespace: openmicroscopy.org/mapr/compound
+      columns:
+      - name: Compound Name
+        include: true
+      - name: Compound URL
+        clientname: Compound Name URL
+        include: true
+
+  - group:
+      namespace: openmicroscopy.org/mapr/compound/supplementary
+      columns:
+      - name: Compound Identifier (CAS Number)
+        include: true
+      - name: Compound Identifier (CAS Number)
+        clientname: Compound Identifier (CAS Number) URL
+        clientvalue: https://pubchem.ncbi.nlm.nih.gov/compound/{{ value|urlencode }}
+        include: true
+      - name: Compound Concentration (microMolar)
+        include: true
+      - name: Compound General Target Class
+        include: true
+      - name: Compound General activity
+        include: true
+      - name: Compound Information
+        include: true
+
+advanced:
+    well_to_images: true
+    ignore_missing_primary_key: true
+    primary_group_keys:
+    - namespace: openmicroscopy.org/mapr/organism
+      keys:
+      - Organism
+    - namespace: openmicroscopy.org/mapr/compound
+      keys:
+      - Compound Name
