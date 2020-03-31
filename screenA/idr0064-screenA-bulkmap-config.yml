@@ -12,6 +12,10 @@ defaults:
 
 columns:
 
+  - name: Characteristics [Cell Type]
+    clientname: Cell Type
+    include: true
+
   - name: Channels
     include: true
 
@@ -35,9 +39,10 @@ columns:
       columns:
       - name: Compound Name
         include: true
-      - name: Compound URL
+      - name: Compound Name
         clientname: Compound Name URL
-        include: true
+        clientvalue: https://www.ncbi.nlm.nih.gov/pccompound?term={{ value|urlencode }}
+        include: yes
 
   - group:
       namespace: openmicroscopy.org/mapr/compound/supplementary
