@@ -5,9 +5,9 @@
 ### idr-testing (if applicable)
 | Task | Duration | Checked |
 | :----: |:----:| :----:|
-| Images| 30min | -- |
-| Thumbnails | -- | -- |
-| Annotations | -- | -- |
+| Images| 30min | X |
+| Thumbnails | NA | NA |
+| Annotations | 10min | X |
 
 ### idr-next
 | Task | Duration | Checked |
