@@ -1,0 +1,113 @@
+# STUDY DESCRIPTION SECTION									
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details									
+									
+Comment[IDR Study Accession]	idr0064									
+Study Title	A live-cell screen for altered Erk dynamics reveals principles of proliferative control	
+Study Type	high content screen								
+Study Type Term Source REF	EFO								
+Study Type Term Accession	EFO_0007550								
+Study Description	Complex, time-varying responses have been observed widely in cell signaling, but how specific dynamics are generated or regulated is largely unknown. One major obstacle has been that high-throughput screens for identifying pathway components are typically incompatible with the live-cell assays used to monitor dynamics. Here, we address this challenge by performing a drug screen for altered Erk signaling dynamics in primary mouse keratinocytes. We screened a library of 429 kinase inhibitors, monitoring Erk activity over 5 h in more than 80,000 single live cells. The screen revealed both known and uncharacterized modulators of Erk dynamics, including inhibitors of non-EGFR receptor tyrosine kinases (RTKs) that increased Erk pulse frequency and overall activity. Using drug treatment and direct optogenetic control, we demonstrate that drug-induced changes to Erk dynamics alter the conditions under which cells proliferate. Our work opens the door to high-throughput screens using live-cell biosensors and reveals that cell proliferation integrates information from Erk dynamics as well as additional permissive cues. 	
+Study Key Words	Ras	Erk	receptor tyrosine kinase	cell signaling	single-cell dynamics	optogenetics	signal processing	cellular decision-making	cell proliferation		
+Study Organism	Mus musculus								
+Study Organism Term Source REF	NCBITaxon								
+Study Organism Term Accession	10090									
+Study Screens Number	1								
+Study External URL								
+Study BioImage Archive Accession	
+Study Public Release Date									
+									
+# Study Publication									
+Study PubMed ID	32191874									
+Study Publication Title	A live-cell screen for altered Erk dynamics reveals principles of proliferative control								
+Study Author List	Goglia AG, Wilson MZ, Silbert J, Jena S, Devenport D, Toettcher JE
+Study PMC ID									
+Study DOI	https://doi.org/10.1016/j.cels.2020.02.005							
+									
+# Study Contacts									
+Study Person Last Name	Toettcher								
+Study Person First Name	Jared								
+Study Person Email	toettcher@princeton.edu								
+Study Person Address	Lewis Thomas Laboratory Room 140, Washington Road, Princeton NJ 08544	
+Study Person ORCID	0000-0002-1546-4030								
+Study Person Roles	submitter								
+									
+# Study License and Data DOI									
+Study License	CC-BY 4.0								
+Study License URL	https://creativecommons.org/licenses/by/4.0/					
+Study Copyright	Goglia et al							
+Study Data Publisher	University of Dundee								
+Study Data DOI									
+									
+Term Source Name	NCBITaxon	EFO	CMPO	Fbbi					
+Term Source File	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/					
+									
+									
+# SCREEN SECTION									
+# Screen Section containing all information relative to each screen in the study including materials used, protocols names and description, phenotype names and description.									
+									
+Screen Number	1								
+Comment[IDR Screen Name]	idr0064-goglia-erkdynamics/screenA	
+Screen Sample Type	cell				
+Screen Description	We screened a library of 429 kinase inhibitors in primary mouse keratinocytes, monitoring Erk activity over 5 h in more than 80,000 single live cells.					
+Screen Size	Plates: 9	5D Images: 	Planes: 	Average Image Dimension (XYZCT): 	Total Tb: 				
+Screen Example Images									
+Screen Imaging Method	spinning disk confocal microscopy		
+Screen Imaging Method Term Source REF	Fbbi								
+Screen Imaging Method Term Accession	FBbi_00000253	
+Screen Technology Type	compound screen								
+Screen Technology Type Term Source REF	EFO								
+Screen Technology Type Term Accession	EFO_0007553							
+Screen Type	primary screen								
+Screen Type Term Source REF	EFO							
+Screen Type Term Accession	EFO_0007556							
+Screen Comments									
+									
+# Library section. The library file should be supplied separately and it should contain the reagents description including, at the absolute minimum: reagent ID, sequences and position in the layout (= plate + position in the plate)						
+Library File Name	(5.22)L1200-Selleck-Kinase-Inhibitor-Library-429cpds (1).xlsx	
+Library File Format	tab-delimited text								
+Library Type	compound library								
+Library Type Term Source REF	EFO								
+Library Type Term Accession	EFO_0007569									
+Library Manufacturer	Selleck Chemicals								
+Library Version									
+Library Experimental Conditions	Keratinocytes grown in high-calcium, growth factor-free media							
+Library Experimental Conditions Term Source REF	EFO								
+Library Experimental Conditions Term Accession									
+Quality Control Description	All identified drug hits were confirmed by purchasing and re-testing new drug aliquots								
+									
+# Protocols									
+Protocol Name	growth protocol	treatment protocol	HCS library protocol	HCS image acquisition and feature extraction protocol	HCS data analysis protocol				
+Protocol Type	growth protocol	treatment protocol	HCS library protocol	HCS image acquisition and feature extraction protocol	HCS data analysis protocol				
+Protocol Type Term Source REF	EFO	EFO	EFO	EFO	EFO				
+Protocol Type Term Accession	EFO_0003789	EFO_0003969	EFO_0007571	EFO_0007572	EFO_0007573				
+Protocol Description	Dorsal epidermal keratinocytes derived from CD1 mice and stably expressing a retrovirally-delivered histone H2B-RFP (selected for expression with hygromycin) were obtained from the Devenport lab and were cultured as described previously (Nowak and Fuchs, 2009). Briefly, keratinocytes were given low calcium (50 uM) growth media (E media supplemented with 15% serum and 0.05 mM Ca2+) in Nunc Cell Culture Treated Flasks with filter caps (Thermo) and were maintained in a humidified incubator at 37 C with 5% CO2. Cell passage number was kept below 30.	Imaging experiments were performed in either 384- or 96-well black-walled, 0.17mm high performance glass-bottom plates (Cellvis). Before plating, the bottom of each well was pre-treated with a solution of 10 ug/mL bovine plasma fibronectin (Thermo Fisher) in phosphate buffered saline (PBS) to support cell adherence. Two days before imaging, keratinocytes were seeded at 16,000 cells/well in 50 uL of low-calcium E media (in a 384-well plate), plates were briefly centrifuged at 100 x g to ensure even plating distribution, and cells were allowed to adhere overnight. 24 h before imaging, wells were washed 2-3X with PBS to remove non-adherent cells and were shifted to high-calcium (1.5 mM CaCl2) complete E media to promote epithelial monolayer formation. For experiments in GF-free media, cells were washed once with PBS and shifted to high-calcium P media (i.e., DMEM/F12 containing only pH buffer, penicillin/streptomycin, and 1.5 mM CaCl2) eight hours before imaging. To prevent evaporation during time-lapse imaging, a 50 uL layer of mineral oil was added to the top of each well immediately before imaging.	An Echo acoustic liquid handler (Labcyte) was used to precisely spot plastic 96-well plates with 75 nL of either DMSO vehicle control or of individual drugs from the kinase inhibitor library (Selleck Chem). 100 uL of P media was then added to each well that had been spotted by the Echo to create 3X stock solutions that could be rapidly added to plates of cells by multi-channel pipetting. Keratinocytes were plated on glass 384-well dishes in 50 uL of media and a final drug concentration of 2.5 uM was achieved by adding 25 uL of each 3X stock solution to individual wells of keratinocytes. Imaging was carried out 30 min after drug additions.	Imaging was performed on a Nikon Eclipse Ti confocal microscope, with a Yokogawa CSU-X1 spinning disk, a Prior Proscan III motorized stage, an Agilent MLC 400B laser launch containing 405, 488, 561, and 650 nm lasers, a cooled iXon DU897 EMCCD camera, and fitted with an environmental chamber to ensure cells were kept at a 37 C and 5% CO2 during imaging. All images were captured with either a 10X or 20X air objective and were collected at intervals of 2-3 min.	Our analysis pipeline takes as input a two-color, multi-timepoint TIFF stack that includes two fluorescent channels – KTR-BFP and H2B-RFP – for monitoring Erk activity and tracking/segmenting nuclei. These TIFF images contained metadata including the spatial scale of the data, and since our analysis pipeline incorporates true spatial units (?m rather than pixels), it can be used for images collected with any objective magnification. We first used a FIJI Jython script batch_trackmate.py to automatically run the TrackMate segmentation/tracking plugin on a folder of TIFF stacks, returning the mean nuclear intensity for each cell in both the H2B and KTR channels. Each dataset thus consisted of two paired folders: one containing all the TIFFs (with names <image_name>.tif) and one of the corresponding TrackMate tracks (with names <image_name>.txt). In addition to containing the mean nuclear intensities in all fluorescent channels, the resulting TrackMate tracks also include the X-Y locations of each nucleus at all timepoints, enabling analysis of each cell’s overall displacement and velocity. All subsequent analyses were performed in MATLAB. We wrote a set of analysis tools to automatically load the TIFFs and TrackMate tracks from the paired folders and analyze them with a set of options specified in a comma-delimited parameters file that is generated for each dataset. We first exclude TrackMate-tracked nuclei on either of two conditions: (1) they do not express both H2B and KTR, or (2) if H2B intensity changes dramatically over the imaging timecourse, indicating a tracking error. We then filter and process nuclear KTR intensities using the following steps: (1) data is background-subtracted; (2) data is h-minima transformed to ‘flatten’ noise between consecutive timepoints; (3) data is inverted and scaled assuming that the maximum nuclear KTR intensity observed for each cell corresponds to Erk activity of 0; and (4) data is fed into a peak-finding routine that splits the trajectory into windows containing individual peaks, which are then analyzed using MATLAB’s built-in findpeaks.m function. In addition to analysis of single-cell trajectories, we also perform one well-averaged measurement at each timepoint: the overall cytosol-to-nuclear ratio computed for all identified cells. To do so, we used image dilation and erosion operations to obtain an annulus of cytoplasm surrounding all segmented nuclei. We then computed the mean C/N ratio by measuring the mean intensity in all cytosolic pixels divided by the mean intensity of all nuclear pixels. We found this ratio to be an excellent proxy for well-averaged activity; as an example, it is able to accurately detect keratinocytes’ graded Erk responses to increasing doses of EGF. We opted for a well-averaged C/N ratio rather than a single-cell ratio primarily because correctly assigning cytosolic regions to the appropriate nucleus can be quite tricky, especially in an epithelial monolayer. At the conclusion of our analysis routine, the user is provided with two data structures: well, which contains the raw and processed nuclear KTR and Erk activity trajectories; and PS, a structure that contains all analyses of Erk dynamics over time (e.g., frequency, pulse prominence, overall Erk activity offset, total distance moved per cell, etc.). These quantities were used for all subsequent analyses. Example runs are available on Github (github.com/toettchlab/Goglia2019).			
+									
+									
+# Phenotypes									
+Phenotype Name	mean_f	mean_p	mean_a	mean_acorr	mean_ton	mean_tbp	mean_num_cells	mean_tot_disp	mean_tot_dist
+Phenotype Description	frequency (f): average number of Erk activity pulses per hour	pulse prominence (p): average magnitude/amplitude of Erk activity pulses	Erk activity offset (a): average overall cytosolic-to-nuclear ratio for all cells in a given well	Erk activity offset (a) corrected for cell density	time on (ton): average width, or 'time on' of an Erk activity pulse, based on full-width half max value	average time between successive pulses	number of cells tracked in a given well	average total displacement for all cells in a given well over the analyzed timecourse	average total distance traveled for all cells in a given well over the analyzed timecourse
+Phenotype Score Type	automatic								
+Phenotype Term Source REF	PATO								
+Phenotype Term Name	frequency	width				
+Phenotype Term Accession	PATO_0000044	PATO_0000921				
+									
+# Raw Data Files									
+Raw Image Data Format	TIFF (Tagged Image File Format)								
+Raw Image Organization	9 x 384 well plates with 48 drug treatment conditions and 2 vehicle control conditions per plate and two fluorescent channels (405=KTR, 561=H2B) per well							
+									
+# Feature Level Data Files									
+Feature Level Data File Name									
+Feature Level Data File Description									
+Feature Level Data File Format									
+Feature Level Data Column Name									
+Feature Level Data Column Description									
+									
+#  Processed Data Files 									
+Processed Data File Name	drug_test_noEQ.mat								
+Processed Data File Format	Matlab								
+Processed Data File Description	Erk dynamic features for each drug as calculated by our analysis pipeline								
+Processed Data Column Name	mean_acorr	mean_a	mean_f	mean_p	mean_ton	mean_tbp	mean_num_cells	mean_tot_disp	mean_tot_dist
+Processed Data Column Type	phenotype	phenotype	phenotype	phenotype	phenotype	phenotype	phenotype	phenotype	phenotype
+Processed Data Column Annotation Level	well								
+Processed Data Column Description	the mean whole-well amplitude/offset ('a') of Erk activity pulses corrected for cell density ('corr')	the mean amplitude pre-cell density correction	the mean frequency of Erk activity pulses	the mean prominence of Erk activity pulses	the mean time 'on' for Erk activity pulses	the mean time between Erk activity pulses	the mean number of cells tracked	the mean total displacement of tracked cells in the indicated well	the mean total distance traveled by tracked cells in a given well
+Processed Data Column Link To Library File	Plate_Well combination					
