@@ -1,0 +1,6 @@
+---
+language: python
+
+script:
+  - flake8 -v .
+  - yamllint .
