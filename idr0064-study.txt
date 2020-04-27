@@ -14,7 +14,7 @@ Study Organism Term Accession	10090
 Study Screens Number	1								
 Study External URL								
 Study BioImage Archive Accession	
-Study Public Release Date									
+Study Public Release Date	2020-04-27									
 									
 # Study Publication									
 Study PubMed ID	32191874									
