@@ -2,4 +2,3 @@
 target: "Screen:name:idr0064-goglia-erkdynamics/screenA"
 include: "../bulk.yml"
 path: "idr0064-screenA-plates.tsv"
-
